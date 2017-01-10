@@ -1,0 +1,5 @@
+/target
+/.nrepl-port
+/out
+/docs/js/app.out
+/docs/js/app.cljs.edn
